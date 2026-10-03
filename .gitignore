@@ -1,0 +1,16 @@
+node_modules
+.next
+.open-next
+.wrangler
+out
+build
+.env
+.env.local
+.dev.vars
+*.log
+.DS_Store
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Local SQLite database and photo store — never commit data.
+data/

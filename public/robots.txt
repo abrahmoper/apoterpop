@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /en/host
+Disallow: /am/host
+Disallow: /en/admin
+Disallow: /am/admin
+Disallow: /en/messages
+Disallow: /am/messages
+
+Sitemap: https://kiray.et/sitemap.xml
